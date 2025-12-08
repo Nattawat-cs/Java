@@ -1,4 +1,4 @@
-class Introduction {
+public class Introduction {
     public static void main(String[] args) {
         
         // THIS IS MY FIRST  JAVA PROGRAM
